@@ -1,4 +1,10 @@
-### Hi there 👋
+## Muhammad Fikri Basa
+
+- 👋 Hi, I’m @fikribasa
+- 🤓 I’m finishing my studies in Digital Telecommunication Network.
+- 🌱 I’m currently Developing in Flutter.
+- 💞️ I’m looking to work on Apps Development with Flutter projects.
+- 📫 You can find me on Instagram @basafikri
 
 <!--
 **fikribasa/fikribasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
