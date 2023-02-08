@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @fikribasa
 - 🤓 I’m finishing my studies in Digital Telecommunication Network.
-- 🌱 I’m currently Developing in Flutter.
+- 🌱 I’m currently working as Fullstack Developer using Flutter for mobile, ReactJS for web and Golang for backend.
 - 💞️ I’m looking to work on Apps Development with Flutter projects.
 - 📫 You can find me on Instagram @basafikri
 
