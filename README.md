@@ -6,6 +6,10 @@
 - 💞️ I’m looking to work on Apps Development with Flutter projects.
 - 📫 You can find me on Instagram @basafikri
 
+
+![Fikribasa github stats](https://github-readme-stats.alifma.vercel.app/api?username=fikribasa&show_icons=true&theme=midnight-purple&count_private=true)
+
+
 <!--
 **fikribasa/fikribasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
